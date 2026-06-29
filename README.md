@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi 👋 I'm Ritesh Kumar
 
-<!--
-**kssharma8979/kssharma8979** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 BCA Student  
+🚀 Full Stack Developer (Learning)  
+🌱 Currently learning MERN Stack  
+🔥 Building Real Projects  
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+HTML • CSS • JavaScript  
+Python • C++ • Git • GitHub  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+🛒 E-Commerce Website  
+🤖 AI Assistant  
+📋 Task Manager  
+🏦 Banking Information System  
+
+## 📈 Current Goal
+Build projects and become job ready.
+
+## 📫 Contact
+📧 k.s.sharma8979@gmail.com
+
+⭐ Thanks for visiting my profile
